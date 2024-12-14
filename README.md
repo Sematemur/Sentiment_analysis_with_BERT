@@ -1,2 +1,2 @@
 Metinlerden duygu analizi yapılması için BERT finetune edildi.
-![image](https://github.com/user-attachments/assets/4cd6c9c1-893f-4880-8675-35f1ae68b1c0)
+![image](https://github.com/user-attachments/assets/7b88fe04-f5bc-4d8c-9f2e-fb622f540d6e)
